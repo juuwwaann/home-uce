@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Alvino Bautista
                     </h4>
                   <p className="m-0 text-sm">
-                    Alvino is one of the software tester. He is involved in the quality assurance stage of software development and deployment. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
+                    Alvino is one of the Software Tester. He is involved in the quality assurance stage of software development and deployment. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
                   </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Joseph Celis
                     </h4>
                   <p className="m-0 text-sm">
-                    Howdy, it's a me jelky I am a developer in this program and I am very good like my boss Mr.Virgilio
+                    Joseph is one of the Software Developers in the team who make sure that the best practice is applied when developing the code. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Reinelle Del Valle
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Reinelle is one of the Software Tester who is tasked to check the bugs and errors of the system and check every component if  it is pleasing. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Patricia Lantin
                     </h4>
                   <p className="m-0 text-sm">
-                    Patricia is the product manager of the team and assists in handling the design of the system. She graduated with a degree in Bachelor of Science in Computer Science. 
+                    Patricia is the Product Manager of the team and assists in handling the design of the system. She graduated with a degree in Bachelor of Science in Computer Science. 
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     Jev Lopez
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Jev is the Team Lead who make sure that the deadline are met and he is the one who guides the developers on prioritizing the needed features first. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
                     </p>
                 </div>
               </div>
@@ -184,7 +184,7 @@ const FeaturesTiles = ({
                     Juan Nepomuceno
                     </h4>
                   <p className="m-0 text-sm">
-                    Juan is one of the developer in the team. He is also the lead designer of the team. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
+                    Juan is one of the Software Developer in the team. He is also the lead designer of the team. He graduated at University of the East with a degree of Bachelor of Science in Computer Science. 
                     </p>
                 </div>
               </div>

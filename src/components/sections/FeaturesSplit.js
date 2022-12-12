@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'About the Features',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    //paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
   };
 
   return (
@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Unlimited Undo
                   </h3>
                 <p className="m-0">
-                  Our users will have the privilege to undo every error or action they have done while using our system.
+                  Minor changes and forgetting the code that the user used might end up ruining the system.  Users now will have the privilege to undo every error or action they have done while using our system.
                 </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Different Themes
                   </h3>
                 <p className="m-0">
-                  Users can choose whichever theme they prefer to use.
+                  Users can choose whichever theme they prefer to use. It will help users find the perfect color match to reduce stress and improve productivity.
                 </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/fig2.PNG')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Real Time Update
                   </h3>
                 <p className="m-0">
-                  Any action the user will do, it will automatically reflect on our system.
+                  Any action the user will do, it will automatically reflect on our system. User's wouldn't need to change tab in order to save and update their work.
                 </p>
               </div>
               <div className={
