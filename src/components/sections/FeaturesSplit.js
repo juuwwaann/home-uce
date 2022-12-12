@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Unlimited Undo
                   </h3>
                 <p className="m-0">
-                  Minor changes and forgetting the code that the user used might end up ruining the system.  Users now will have the privilege to undo every error or action they have done while using our system.
+                  Minor changes and forgetting the code that the user used might end up ruining the system.  Users now will have the privilege to undo every error or action they have done while using our system. Users will have the privilege to undo every error or action they have done in just a few clicks. They can undo everything for as many chance as they like. 
                 </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                   Different Themes
                   </h3>
                 <p className="m-0">
-                  Users can choose whichever theme they prefer to use. It will help users find the perfect color match to reduce stress and improve productivity.
+                  Users can choose whichever theme they prefer to use. It will help users find the perfect color match to reduce stress and improve productivity. Users can choose whichever theme they prefer to use. Themes are available in Material, 3024 Day, Nord, Night, Duotone Light, and Isotope. 
                 </p>
               </div>
               <div className={
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                   Real Time Update
                   </h3>
                 <p className="m-0">
-                  Any action the user will do, it will automatically reflect on our system. User's wouldn't need to change tab in order to save and update their work.
+                  Any action the user will do, it will automatically reflect on our system. User's wouldn't need to change tab in order to save and update their work. Any action the user will do, it will automatically reflect on our system. The action done will be automatically saved after .25 seconds.
                 </p>
               </div>
               <div className={

@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     Jev Lopez
                     </h4>
                   <p className="m-0 text-sm">
-                    Jev is the Team Lead who make sure that the deadline are met and he is the one who guides the developers on prioritizing the needed features first. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
+                    Jev is the Team Lead who make sure that the deadlines are met and he is the one who guides the developers on prioritizing the needed features first. He graduated at University of the East with a degree of Bachelor of Science in Computer Science.
                     </p>
                 </div>
               </div>
